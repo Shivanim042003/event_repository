@@ -18,7 +18,7 @@ import {
         <Sheet>
           <SheetTrigger className="align-middle">
             <Image 
-              src="next.svg"
+              src="/assets/icons/menu.svg"
               alt="menu"
               width={24}
               height={24}
@@ -27,7 +27,7 @@ import {
           </SheetTrigger>
           <SheetContent className="flex flex-col gap-6 bg-white md:hidden">
             <Image 
-              src="next.svg"
+              src="/assets/images/logo.svg"
               alt="logo"
               width={128}
               height={38}
